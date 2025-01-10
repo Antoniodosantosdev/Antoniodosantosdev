@@ -1,4 +1,4 @@
-<img src = "tester.gif" width = "325px" align = "right">
+<img src = "tester.gif" width = "300px" align = "right">
 
 
 # 👀 Olá, espero que esteja bem! Me chamo Antonio Carlos, mas pode chamar de Carlos!
